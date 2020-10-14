@@ -1,0 +1,24 @@
+{
+    "name": "pregunta1",
+    "version": "1.0.0",
+    "description": "laboratorio 1",
+    "main": "index.js",
+    "type":"module",
+    "scripts": {
+      "test": "node index.js"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/jesusfajardo/laboratorio1.git"
+    },
+    "author": "jesus fajardo sullca",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/jesusfajardo/laboratorio1/issues"
+    },
+    "homepage": "https://github.com/jesusfajardo/laboratorio1#readme",
+    "dependencies": {
+      "mustache": "^4.0.1"
+    }
+  }
+  
